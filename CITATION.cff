@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the thesis as below."
+title: "Development and Evaluation of an Affordable VR Glove with Force Feedback and IMU Tracking"
+type: software
+authors:
+  - family-names: Mahadeva
+    given-names: Chiranthan
+date-released: 2025-03-03
+repository-code: "https://github.com/Gojoinferno/VirtualReality-HapticGlove"
+keywords:
+  - virtual reality
+  - haptic glove
+  - force feedback
+  - IMU
+  - sensor fusion
+  - quaternion
+  - ESP32
+  - neurosurgical training
+preferred-citation:
+  type: thesis
+  thesis-type: "Master's Thesis"
+  title: "Development and Evaluation of an Affordable VR Glove with Force Feedback and IMU Tracking"
+  authors:
+    - family-names: Mahadeva
+      given-names: Chiranthan
+  institution:
+    name: "Ulm University, Institute of Distributed Systems"
+  year: 2025
+  month: 3
